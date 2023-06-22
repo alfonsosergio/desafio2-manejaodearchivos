@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Camiseta",
+    "description": "Camiseta de algodón",
+    "price": 19.99,
+    "thumbnail": "img/camiseta.jpg",
+    "code": "5678",
+    "stock": 5,
+    "id": 1
+  },
+  {
+    "title": "Camisa",
+    "description": "Camisa deportivas",
+    "price": 100,
+    "thumbnail": "img/zapatillas.jpg",
+    "code": "5679",
+    "stock": 10,
+    "id": 2
+  }
+]
